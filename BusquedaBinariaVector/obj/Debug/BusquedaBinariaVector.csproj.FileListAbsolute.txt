@@ -1,0 +1,9 @@
+c:\users\packo\documents\visual studio 2017\Projects\BusquedaBinariaVector\BusquedaBinariaVector\bin\Debug\BusquedaBinariaVector.exe.config
+c:\users\packo\documents\visual studio 2017\Projects\BusquedaBinariaVector\BusquedaBinariaVector\bin\Debug\BusquedaBinariaVector.exe
+c:\users\packo\documents\visual studio 2017\Projects\BusquedaBinariaVector\BusquedaBinariaVector\bin\Debug\BusquedaBinariaVector.pdb
+c:\users\packo\documents\visual studio 2017\Projects\BusquedaBinariaVector\BusquedaBinariaVector\obj\Debug\BusquedaBinariaVector.csprojResolveAssemblyReference.cache
+c:\users\packo\documents\visual studio 2017\Projects\BusquedaBinariaVector\BusquedaBinariaVector\obj\Debug\BusquedaBinariaVector.Form1.resources
+c:\users\packo\documents\visual studio 2017\Projects\BusquedaBinariaVector\BusquedaBinariaVector\obj\Debug\BusquedaBinariaVector.Properties.Resources.resources
+c:\users\packo\documents\visual studio 2017\Projects\BusquedaBinariaVector\BusquedaBinariaVector\obj\Debug\BusquedaBinariaVector.csproj.GenerateResource.Cache
+c:\users\packo\documents\visual studio 2017\Projects\BusquedaBinariaVector\BusquedaBinariaVector\obj\Debug\BusquedaBinariaVector.exe
+c:\users\packo\documents\visual studio 2017\Projects\BusquedaBinariaVector\BusquedaBinariaVector\obj\Debug\BusquedaBinariaVector.pdb
